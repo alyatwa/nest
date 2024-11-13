@@ -1,0 +1,9 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "files.eol": "\n",
+  "yaml.schemas": {
+    "file:///c%3A/Users/Aliat/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+    "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/Aliat/OneDrive/Documents/sass-lms-backend-nest-ts/.github/workflows/deploy.yml"
+  },
+  "cSpell.words": ["typeorm"]
+}
