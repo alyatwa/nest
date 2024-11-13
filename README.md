@@ -24,7 +24,7 @@ $ pnpm run dev
 
 ```bash
 # unit tests
-$ pnpm run dev 
+$ pnpm run test 
 ```
 
  
