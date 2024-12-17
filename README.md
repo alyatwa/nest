@@ -1,7 +1,7 @@
  
 ## Description
 
-Nest task  
+Nest starter project with unit test  
 
 swagger api: http://localhost:4618/api-docs
 
